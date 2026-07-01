@@ -1,0 +1,65 @@
+NIDDESH KUMAR M
+Chennai, India
+Phone: +91 8056892098
+Email: kumarniddesh@gmail.com
+LinkedIn: linkedin.com/in/niddeshkumar
+GitHub: github.com/Niddeshkumar
+
+PROFILE
+B.E. Cybersecurity graduate (2026) with strong knowledge in Java programming, secure coding practices,
+and data structures. Skilled in writing clean, efficient, and reusable code. Interested in building scalable applications,
+learning new technologies, and contributing effectively in team-based development environments.
+
+EDUCATION
+B.E. Computer Science Engineering 2022 – 2026
+SRM Valliammai Engineering College, Chennai
+CGPA: 8.44
+
+HSC (State Board) 2022
+Percentage: 85.5%
+
+SSLC (State Board) 2019
+Percentage: 98.6%
+
+TECHNICAL SKILLS
+Languages: Java, Python
+Core Concepts: OOP, Data Structures, Algorithms
+Database: SQL
+Tools: VS Code, Wazuh, Wireshark, Nmap, VirusTotal, Splunk
+Tools: Git, VS Code, Wazuh, Wireshark, Nmap, Suricata, VirusTotal
+Technologies: REST APIs, Web Development
+Operating Systems: Linux, Windows
+
+PROJECTS
+Adaptive API Security Gateway
+- Developed backend logic for API request handling and validation
+- Implemented rate limiting, request filtering, and error handling
+- Designed efficient request processing and alert mechanisms
+- GitHub: https://github.com/Niddeshkumar/apishieldx
+
+Unified Image Forgery Detection System
+- Built a modular system for image analysis and automated report generation
+- Implemented data processing techniques to detect anomalies
+- Improved performance through optimized data handling
+
+EXPERIENCE
+Cybersecurity Intern | PUMO Technovation India Pvt Ltd | June 2025
+- Performed vulnerability assessment and penetration testing
+- Conducted threat modeling and identified potential attack vectors
+- Assisted in implementing secure communication protocols
+
+Web Development Intern | Layercodes Pvt Ltd | May 2024
+- Developed responsive web interfaces using HTML and CSS
+- Integrated frontend with backend APIs
+- Implemented user-friendly design solutions
+
+CERTIFICATIONS
+- Advanced Java Programming – FITA Academy
+- Cybersecurity Analyst Job Simulation – Forage
+- Splunk Fundamentals – Splunk Education
+- Python Programming – CSC Computer Education
+- AI Fluency: Framework & Foundation – Anthropic
+- Claude with the Anthropic API – Anthropic
+
+INTERESTS
+Backend Development, Cybersecurity, Web Development, Scalable Applications
